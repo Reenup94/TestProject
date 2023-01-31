@@ -2,13 +2,14 @@
 package com.testproject;
 public class test{
 
-int i=0;
+
 
 public static void main(string [] args){
+int i;
 
 for(i=0;i<10;i++){
 
-print i;
+System.out.println( "value =" +i);
 
 }
 }
